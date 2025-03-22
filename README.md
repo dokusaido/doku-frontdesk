@@ -5,8 +5,8 @@ A front desk system for both civilians and PD to get the attention of either the
 ---
 
 # To-Do
-
-- [ ] Full integration into an On-Duty System
+Plans for the future
+  - [ ] Full integration into an On-Duty System
   - [ ] Connects you to the radio
   - [ ] Gives you a basic loadout depending on grade
 
